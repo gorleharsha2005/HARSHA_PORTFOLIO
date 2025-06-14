@@ -40,7 +40,7 @@ function Contact() {
 
           <div className="social-icons">
 
-            <a href="tel:+916303110785" target="_blank" rel="noopener noreferrer">
+            <a href="tel:+916281799688" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faPhone} className="social-icon" />
             </a>
             <a href="https://www.linkedin.com/in/harsha-vardhan-gorle-60a73529b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
