@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css'; 
 import profilePic from '../../assets/profile.jpg';
-import resume from '../../assets/resume.pdf';
+import resume from '../../assets/Resume_V2.pdf';
 function About() {
   return (
     <section id="about" className="about-section">
