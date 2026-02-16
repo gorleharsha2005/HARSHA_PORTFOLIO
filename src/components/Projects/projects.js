@@ -2,7 +2,6 @@ import React from 'react';
 import './projects.css';
 import ProjectCard from './projectcard';
 
-import Navbar from '../Navbar/navbar';
 const projectData = [
   {
     id: 1,
